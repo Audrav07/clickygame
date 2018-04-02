@@ -1,9 +1,9 @@
-#Clickygame
+# Clickygame
 
-##Overview
+## Overview
 A simple memory game built with React. Click on the photos without clicking on the same photo twice. Try and beat the top score.
 
-##Technologies Used
+## Technologies Used
 - HTML
 - CSS
 - React
