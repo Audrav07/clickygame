@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "image": "./images/arch.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "./images/bells.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "./images/blue.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "./images/canoe.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "./images/cityscape.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "./images/co.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "./images/desert.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "./images/green.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "./images/ocean.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "./images/sf.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "./images/union.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "./images/waves.jpeg",
+    "clicked": false
+  }
+]
+
+
