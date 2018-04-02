@@ -109,10 +109,10 @@ class App extends Component{
           <Row>
           {this.state.pictures.map(picture => (
      
-            <Column size="md-3 sm-6" >
+            <Column key={picture.id} size="md-3 sm-6">
             <PictureCard
+             key={picture.id} 
               id={picture.id}
-              key={picture.id}   
               image={picture.image}
               handleClick={this.handleClick}
               handleIncrement={this.handleIncrement}
