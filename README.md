@@ -10,5 +10,5 @@ A simple memory game built with React. Click on the photos without clicking on t
 - JavaScript
 - Bootstrap
 
-![Clicky Prototype](./images/screen.gif "Clicky Prototype" width="200px" height="200px")
+<img src="./images/destination.png">
 
