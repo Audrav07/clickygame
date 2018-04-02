@@ -9,3 +9,5 @@ A simple memory game built with React. Click on the photos without clicking on t
 - React
 - JavaScript
 - Bootstrap
+
+<img src="./images/screen.gif" width="200px">
