@@ -10,7 +10,7 @@ A simple memory game built with React. Click on the photos without clicking on t
 - JavaScript
 - Bootstrap
 
-![gif](http://g.recordit.co/ZIOdFHdeXx.gif)
+![Image](public/destination.png)
 
 
 
