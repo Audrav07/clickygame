@@ -1,14 +1,19 @@
 nav {
   width: 100%;
-  font-size: 3rem;
+  font-size: 2rem;
   color: #000;
-  margin-bottom: 50px;
- 
+/*  margin-bottom: 50px;*/
+ background-image:("./images/logo.png");
   height: auto;
   font-family: 'Lato', sans-serif;
 
 }
+#logo{
+  height: 850px;
+  margin-left: -230px;
 
+
+}
 a {
   color: #fff;
 }
@@ -26,7 +31,8 @@ nav li {
 }
 
 ul {
-
+  margin-top: -200px;
+margin-bottom: -360px;
   display: flex;
   align-items: center;
 }
