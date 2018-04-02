@@ -10,5 +10,7 @@ A simple memory game built with React. Click on the photos without clicking on t
 - JavaScript
 - Bootstrap
 
-<img src="./images/destination.png">
+![Image](public/destination.png)
+
+
 
